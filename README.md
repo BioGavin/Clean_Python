@@ -1,10 +1,12 @@
-# 📖[Clean Python](Clean Python.pdf)
+# Clean Python
 
-## 🤔Chapter 1: Pythonic Thinking	
+📖 [Elegant Coding in Python](Clean Python.pdf)
+
+## 🤔 Chapter 1: Pythonic Thinking	
 
 
 
-## 🪜Chapter 2: Data Structures
+## 🪜 Chapter 2: Data Structures
 
 - [Common Data Structures](data_structure/Common_Data_Structures.ipynb)
 
