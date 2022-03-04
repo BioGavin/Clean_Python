@@ -1,6 +1,6 @@
 # Clean Python
 
-📖 [Elegant Coding in Python](Clean Python.pdf)
+📖 [Elegant Coding in Python](https://github.com/BioGavin/Clean_Python/blob/main/Clean%20Python.pdf)
 
 ## 🤔 Chapter 1: Pythonic Thinking	
 
