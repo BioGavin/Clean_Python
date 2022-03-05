@@ -12,3 +12,6 @@
 
 - [Take Advantage of Dictionary](data_structures/Take_Advantage_of_Dictionary.ipynb)
 
+## 🧰 Chapter 3: Writing Better Functions and Classes
+
+- [Functions.ipynb](writing_better_functions_and_classes/Functions.ipynb)
