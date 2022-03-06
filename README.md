@@ -14,4 +14,6 @@
 
 ## 🧰 Chapter 3: Writing Better Functions and Classes
 
-- [Functions.ipynb](writing_better_functions_and_classes/Functions.ipynb)
+- [Functions](writing_better_functions_and_classes/Functions.ipynb)
+
+- [Classes](writing_better_functions_and_classes/Classes.ipynb)
