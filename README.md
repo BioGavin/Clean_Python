@@ -4,7 +4,9 @@
 
 ## 🤔 Chapter 1: Pythonic Thinking	
 
+- [Writing Pythonic Code](pythonic_thinking/Write_Pythonic_Code.ipynb)
 
+- [Using Docstrings](pythonic_thinking/Using_Docstrings.ipynb)
 
 ## 🪜 Chapter 2: Data Structures
 
