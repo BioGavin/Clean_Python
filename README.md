@@ -24,4 +24,6 @@
 
 - [Functions in Classes (Supplementary)](working_with_modules_and_metaclasses/Functions_in_Classes_(Supplementary).ipynb)
 
+- [Inheritance_(Supplementary)](working_with_modules_and_metaclasses/Inheritance_(Supplementary).ipynb)
+
 - [Modules and Metaclasses](working_with_modules_and_metaclasses/Modules_and_Metaclasses.ipynb)
