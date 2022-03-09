@@ -15,5 +15,13 @@
 ## 🧰 Chapter 3: Writing Better Functions and Classes
 
 - [Functions](writing_better_functions_and_classes/Functions.ipynb)
-
+  
 - [Classes](writing_better_functions_and_classes/Classes.ipynb)
+
+## 🔭 Chapter 4: Working with Modules and Metaclasses
+
+- [Introduction to Classes (Supplementary)](working_with_modules_and_metaclasses/Introduction_to_Classes_(Supplementary).ipynb)
+
+- [Functions in Classes (Supplementary)](working_with_modules_and_metaclasses/Functions_in_Classes_(Supplementary).ipynb)
+
+- [Modules and Metaclasses](working_with_modules_and_metaclasses/Modules_and_Metaclasses.ipynb)
