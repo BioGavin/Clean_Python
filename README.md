@@ -23,11 +23,9 @@
 ## 🔭 Chapter 4: Working with Modules and Metaclasses
 
 - [Introduction to Classes (Supplementary)](working_with_modules_and_metaclasses/Introduction_to_Classes_(Supplementary).ipynb)
-
 - [Functions in Classes (Supplementary)](working_with_modules_and_metaclasses/Functions_in_Classes_(Supplementary).ipynb)
-
 - [Inheritance_(Supplementary)](working_with_modules_and_metaclasses/Inheritance_(Supplementary).ipynb)
-
-- [Ploymorphism_(Supplementary)](working_with_modules_and_metaclasses/Polymorphism_(Supplementary).ipynb)
-
+- [Ploymorphism (Supplementary)](working_with_modules_and_metaclasses/Polymorphism_(Supplementary).ipynb)
+- [Dependencies and Combinations (Supplementary)](working_with_modules_and_metaclasses/Dependencies_and_Combinations_(Supplementary).ipynb)
+- [Magic Functions (Supplementary)](working_with_modules_and_metaclasses/Magic_Functions_(Supplementary).ipynb)
 - [Modules and Metaclasses](working_with_modules_and_metaclasses/Modules_and_Metaclasses.ipynb)
