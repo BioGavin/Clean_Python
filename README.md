@@ -22,10 +22,18 @@
 
 ## 🔭 Chapter 4: Working with Modules and Metaclasses
 
-- [Introduction to Classes (Supplementary)](working_with_modules_and_metaclasses/Introduction_to_Classes_(Supplementary).ipynb)
-- [Functions in Classes (Supplementary)](working_with_modules_and_metaclasses/Functions_in_Classes_(Supplementary).ipynb)
-- [Inheritance_(Supplementary)](working_with_modules_and_metaclasses/Inheritance_(Supplementary).ipynb)
-- [Ploymorphism (Supplementary)](working_with_modules_and_metaclasses/Polymorphism_(Supplementary).ipynb)
-- [Dependencies and Combinations (Supplementary)](working_with_modules_and_metaclasses/Dependencies_and_Combinations_(Supplementary).ipynb)
-- [Magic Functions (Supplementary)](working_with_modules_and_metaclasses/Magic_Functions_(Supplementary).ipynb)
 - [Modules and Metaclasses](working_with_modules_and_metaclasses/Modules_and_Metaclasses.ipynb)
+
+
+
+## 🎨 Supplement
+
+- [Introduction to Classes (Supplementary)](supplement/Introduction_to_Classes_(Supplementary).ipynb)
+- [Functions in Classes (Supplementary)](supplement/Functions_in_Classes_(Supplementary).ipynb)
+- [Inheritance_(Supplementary)](supplement/Inheritance_(Supplementary).ipynb)
+- [Ploymorphism (Supplementary)](supplement/Polymorphism_(Supplementary).ipynb)
+- [Dependencies and Combinations (Supplementary)](supplement/Dependencies_and_Combinations_(Supplementary).ipynb)
+- [Magic Functions (Supplementary)](supplement/Magic_Functions_(Supplementary).ipynb)
+
+- [Reflection and Exception (Supplementary)](supplement/Reflection_and_Exception(Supplementary).ipynb)
+
