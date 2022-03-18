@@ -34,6 +34,6 @@
 - [Ploymorphism (Supplementary)](supplement/Polymorphism_(Supplementary).ipynb)
 - [Dependencies and Combinations (Supplementary)](supplement/Dependencies_and_Combinations_(Supplementary).ipynb)
 - [Magic Functions (Supplementary)](supplement/Magic_Functions_(Supplementary).ipynb)
-
 - [Reflection and Exception (Supplementary)](supplement/Reflection_and_Exception(Supplementary).ipynb)
+- [Multiprocess (Supplementary)](supplement/Multiprocess_(Supplementary).py)
 
